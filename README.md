@@ -1,13 +1,5 @@
 Machine learning and deeplearning notebook
 
-[vision resources](chapters/deeplearning/vision/resource.md)
+all the files compiled in one file: book.md
 
- here:
-
- 
- and here:
- 
- {% include_relative  chapters/deeplearning/vision/resource.md %}
- 
- 
-  
+navigation: index.md
